@@ -4,14 +4,14 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: 5d83dd4164a3d489483c1d55bbb90dd9
+  productGUID: b541b6e244a3e49ba9b69d0f02e3a648
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: maguron
+  productName: project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -404,7 +404,7 @@ PlayerSettings:
   ps4DownloadDataSize: 0
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
-  ps4Passcode: Q9wQj99nsQzldVI5ZuGXbEWRK5RhRXdC
+  ps4Passcode: EWRK5RhRXdCdG5nG5azdNMK66MuCV6GX
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -450,7 +450,7 @@ PlayerSettings:
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 
   psp2PatchOriginalPackage: 
-  psp2PackagePassword: dG5nG5azdNMK66MuCV6GXi5xr84P2R39
+  psp2PackagePassword: i5xr84P2R391UXaLHbavJvFZGfO47XWS
   psp2KeystoneFile: 
   psp2MemoryExpansionMode: 0
   psp2DRMType: 0
@@ -505,14 +505,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: maguron
+  metroPackageName: project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: maguron
+  metroApplicationDescription: project
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -586,8 +586,8 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: e9a02deb-d42e-4328-9766-f6620c77f184
-  projectName: maguron
+  cloudProjectId: c2de298c-8c52-40af-90a8-ae4c360d439a
+  projectName: project
   organizationId: ryu955
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
