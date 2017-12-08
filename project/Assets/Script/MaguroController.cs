@@ -6,7 +6,6 @@ using UnityEngine.EventSystems;
 public class MaguroController : MonoBehaviour {
 
 
-	public float flap = 1000f;
 
 	// Use this for initialization
 	void Start () {
@@ -15,9 +14,15 @@ public class MaguroController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown("space"))
-		{
-			this.AddForce(Vector2.up * flap);
-		}
+
 	}
+
+	void OnTriggerEnter2D(Collider2D coll) {
+		Debug.Log ("当たった");
+//		UIController.GameOver ();
+		GameObject.Find ("Canvas").GetComponent<UIController> ().GameOver();
+	}
+
+
+
 }
