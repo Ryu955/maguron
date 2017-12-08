@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ffaeb524abd940f2b4be35daae58cbb
+timeCreated: 1512719513
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - highRock: {fileID: 1741592839240712, guid: 8248fdd36d84a416ca41142ce0dc289d, type: 2}
+  - midRock: {fileID: 1139593780009758, guid: da3c6240e2ccd4207bcc8c411cf2ed1f, type: 2}
+  - lowRock: {fileID: 1324126441801042, guid: 33bcb0841fdd6421cae3af9963621afb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
